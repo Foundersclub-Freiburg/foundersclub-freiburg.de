@@ -1,6 +1,6 @@
 # Foundersclub Freiburg
 
-Das ist die Internetseite vom Foundersclub Freiburg auf Github. 
+Das ist die Internetseite vom Foundersclub Freiburg auf Github. Aktuell befindet sich die Internetseite in Bearbeitung.
 
 ## Steps for Setup:
 
